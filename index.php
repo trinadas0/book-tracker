@@ -1,5 +1,5 @@
 <?php
-include 'db.php';
+include 'db.php'; 
 
 $sql = "SELECT * FROM books";
 $result = $conn->query($sql);
@@ -16,7 +16,7 @@ $result = $conn->query($sql);
 </head>
 <body>
     <div class="container">
-        <h1 class="my-4">My Book Tracker</h1>
+        <h1 class="my-4">Track Your Reading!</h1>
         <a href="add_book.php" class="btn btn-primary mb-4">Add New Book</a>
         <table class="table table-bordered">
             <thead>
