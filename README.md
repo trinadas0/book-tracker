@@ -1,4 +1,4 @@
-# Book Tracker Project
+# Book Tracker with PHP and SQL
 
 ## Introduction
 
