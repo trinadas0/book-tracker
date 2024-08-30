@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body {
+    background-color: #f8bbd0; /* Light pink background */
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    color: #880e4f; /* Dark pink for headers */
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.table th {
+    background-color: #f48fb1; /* Pink for table headers */
+}
+
+.table td {
+    background-color: #fce4ec; /* Lighter pink for table cells */
+}
+
+.btn-primary {
+    background-color: #d81b60 !important; /* Pink for primary buttons */
+    border-color: #d81b60 !important;
+    color: #ffffff !important; /* White text */
+}
+
+.btn-primary:hover {
+    background-color: #c2185b !important; /* Slightly darker pink on hover */
+    border-color: #c2185b !important;
+}
+
+.btn-warning {
+    background-color: #f48fb1 !important; /* Pink for warning buttons */
+    border-color: #f48fb1 !important;
+    color: #ffffff !important; /* White text */
+}
+
+.btn-warning:hover {
+    background-color: #f06292 !important; /* Slightly darker pink on hover */
+    border-color: #f06292 !important;
+}
+
+.btn-danger {
+    background-color: #e57373 !important; /* Soft red for danger buttons */
+    border-color: #e57373 !important;
+    color: #ffffff !important; /* White text */
+}
+
+.btn-danger:hover {
+    background-color: #ef5350 !important; /* Slightly darker red on hover */
+    border-color: #ef5350 !important;
+}
