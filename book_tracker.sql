@@ -1,6 +1,6 @@
-CREATE DATABASE IF NOT EXISTS das24_book_tracker;
+CREATE DATABASE IF NOT EXISTS book_tracker;
 
-USE das24_book_tracker;
+USE book_tracker;
 
 CREATE TABLE IF NOT EXISTS books (
     id INT AUTO_INCREMENT PRIMARY KEY,
