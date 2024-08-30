@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project is a simple Book Tracker application built with PHP and MySQL. The app allows users to track books they are currently reading, have read, or want to read.
+This project is a simple Book Tracker application built with PHP and MySQL. The app allows users to track books they are currently reading, have read, or want to read. You can view the finished project at: https://booktracker.das24.myweb.cs.uwindsor.ca/
 
 ## Prerequisites
 
